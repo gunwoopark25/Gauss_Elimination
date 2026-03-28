@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Gauss_Elimination/Gauss_Elimination.vcxproj" Id="3d3e2b10-b6f7-4de7-95f1-1488133cb996" />
+</Solution>
